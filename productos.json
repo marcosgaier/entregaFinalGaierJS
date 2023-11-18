@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "Cartera Zami",
+        "precio": 5000,
+        "imagen": "CarteraZami.jpg",
+        "categoria": "Carteras",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Cartera Nare",
+        "precio": 7000,
+        "imagen": "CarteraNare.jpg",
+        "categoria": "Carteras",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Cartera Fanny",
+        "precio": 4500,
+        "imagen": "CarteraFanny.jpg",
+        "categoria": "Carteras",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Posa saquito de té",
+        "precio": 2500,
+        "imagen": "PosaSaquitoTe.jpg",
+        "categoria": "Ceramicas",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Bandeja oval jaspeada",
+        "precio": 1800,
+        "imagen": "BandejaOval.jpg",
+        "categoria": "Ceramicas",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Taza de té vainilla gris",
+        "precio": 3200,
+        "imagen": "TazaTe.jpg",
+        "categoria": "Ceramicas",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Conjunto de funda de edredón Florence",
+        "precio": 30000,
+        "imagen": "Florence.webp",
+        "categoria": "Blanqueria",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Conjunto de funda de edredón Honor",
+        "precio": 45000,
+        "imagen": "Honor.webp",
+        "categoria": "Blanqueria",
+        "cantidad": 1
+    },
+    {
+        "nombre": "Sábana de seda",
+        "precio": 35000,
+        "imagen": "SabanaSeda.webp",
+        "categoria": "Blanqueria",
+        "cantidad": 1
+    }
+]

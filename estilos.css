@@ -1,0 +1,11 @@
+
+.modo-oscuro {
+    background-color: #121212; 
+    color: #ffffff; 
+}
+
+
+.modo-oscuro #modo-oscuro {
+    background-color: #333; 
+    color: #ffffff; 
+}
